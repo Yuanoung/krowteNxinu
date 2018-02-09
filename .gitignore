@@ -1,1 +1,4 @@
 .vscode
+*.o
+.idea/
+CMakeLists.txt
